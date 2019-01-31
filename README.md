@@ -6,7 +6,7 @@
 2048Game(self-produced) without GUI version
 2048游戏(自制版) 无GUI版
 
-___[查看中文详情](#1024游戏)___
+___[查看中文详情](#2048C游戏)___
 
 Project: 2048Game
 Powered by: DolorHunter
