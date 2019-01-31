@@ -3,7 +3,7 @@
 1024Game(self-produced) without GUI version
 1024游戏(自制版) 无GUI版
 
-___[查看中文详情](#1024Game(Simplified Chinese))___
+___[查看中文详情](#1024游戏)___
 
 Project: 1024Game
 Powered by: DolorHunter
@@ -15,7 +15,7 @@ ___[Index of the project](https://github.com/DolorHunter/1024Game)___
 
 ___[Donation](https://www.paypal.me/dolor059)___
 
-# 1024Game(Simplified Chinese)
+# 1024游戏
 
 项目:1024游戏
 贡献:DolorHunter
