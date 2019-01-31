@@ -1,0 +1,3 @@
+﻿  1024.cpp
+c:\users\ultrabook\onedrive\hfut\codemonks\c project\1024\1024\1024.cpp(512): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  1024.vcxproj -> C:\Users\ultrabook\OneDrive\HFUT\codemonks\c project\1024\Debug\1024.exe
