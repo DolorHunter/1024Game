@@ -1,6 +1,6 @@
 # 2048Game
 
-- 2048Game writed as 1024Game by mistake.
+- 2048Game was writen as 1024Game by mistake.
 - 2048Game 误写成1024Game (不好改就先不改了 之后如果有加入更多内容在进行修改
 
 2048Game(self-produced) without GUI version
