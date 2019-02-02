@@ -1,10 +1,13 @@
 # 2048Game
 
-- 2048Game was writen as 1024Game by mistake.
-- 2048Game 误写成1024Game (不好改就先不改了 之后如果有加入更多内容在进行修改
+- [TOP] 2048Game was writen as 1024Game by mistake.
+- [置顶] 2048Game 误写成1024Game (不好改就先不改了 之后如果有加入更多内容在进行修改
 
 2048Game(self-produced) without GUI version
 2048游戏(自制版) 无GUI版
+
+Like Gabriele Cirulli, who created 2048, I do this project not only for entertainment but for improving myself, testing whether I have the ability to develop an independent game as well. Providentially, I didn't spend much time and proof my strength in about 500 lines for the v.0.1(prototype version). That feels fascinated!
+像是Gabriele Cirulli, 2048的发明者一样, 我做这个项目的目的除了娱乐也是锻炼自己的能力, 测试自己是否有开发独立游戏的能力. 我很幸运的没花太多时间就证明了自己. 自我证明的感觉很棒!
 
 ___[查看中文详情](#2048游戏)___
 
