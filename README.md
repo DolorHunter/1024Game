@@ -7,11 +7,11 @@
 2048Game(self-produced) without GUI version
 2048游戏(自制版) 无GUI版
 
-# About Version/版本说明
+### About Version/版本说明
 *Version v.1.0 did not been interated, because of the difference between 2048 with other software. Thus, 2048 started at v.0.1 for its first generation.*
 *v.1.0版本未经迭代. 因为与其他软件不同, 这个软件并没有太多需要改进的地方, 于是就从1.0版本开始.*
 
-# Some Thoughts/一点随想
+### Some Thoughts/一点随想
 This projecct was made durning my winnter vacation. After a long term study of DataStruct, I learned a lot and desporately want to make progress. Using the newest Tech I've learn to do something bold is the coolest things came to my mind. I am a huge fan of 2048game, I really like this game so I chose it as my TEST. Like Gabriele Cirulli, who created 2048, I do this project not only for entertainment but for improving myself, testing whether I have the ability to develop an independent game as well. So I spend about 2 or 3 days total to make this game. Providentially, I didn't spend much time and proof my strength in about 500 lines for the v.1.0(prototype version). That feels fascinated!
 If you want to play it or make an improvement, just download it for FREE now.XD
 
