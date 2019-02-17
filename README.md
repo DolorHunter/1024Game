@@ -23,9 +23,13 @@ If you want to play it or make an improvement, just download it for FREE now.XD
 ___[查看中文详情](#2048游戏)___
 
 Project: 2048Game
+
 Powered by: DolorHunter
+
 Latest Version: v.1.0
+
 Latest Update:	2019.01.31	20:18(Shanghai Time)
+
 Description: Using WASD to combine numbers. 
 
 Wikipedia:
@@ -42,9 +46,13 @@ ___[Donation](https://www.paypal.me/dolor059)___
 # 2048游戏
 
 项目:2048游戏
+
 贡献:DolorHunter
+
 最新版本:v.1.0
+
 最新更新:2019.01.31 20:18(上海时间)
+
 描述:使用WASD组合数字。(与移动版本2048规则相同)
 
 维基百科:
