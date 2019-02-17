@@ -1,13 +1,18 @@
 # 2048Game
 
-- [TOP] 2048Game was writen as 1024Game by mistake.
+- [TOP] "2048Game" was writen as "1024Game" by mistake. XD
 - [置顶] 2048Game 误写成1024Game (不好改就先不改了 之后如果有加入更多内容在进行修改
 
 2048Game(self-produced) without GUI version
 2048游戏(自制版) 无GUI版
 
-Like Gabriele Cirulli, who created 2048, I do this project not only for entertainment but for improving myself, testing whether I have the ability to develop an independent game as well. Providentially, I didn't spend much time and proof my strength in about 500 lines for the v.0.1(prototype version). That feels fascinated!
-像是Gabriele Cirulli, 2048的发明者一样, 我做这个项目的目的除了娱乐也是锻炼自己的能力, 测试自己是否有开发独立游戏的能力. 我很幸运的没花太多时间就证明了自己. 自我证明的感觉很棒!
+/*Version v.1.0 did not been interated, because of the difference between 2048 with other software. Thus, 2048 started at v.0.1 for its first generation.*/
+
+/*v.1.0版本未经迭代. 因为与其他软件不同, 这个软件并没有太多需要改进的地方, 于是就从1.0版本开始.*/
+
+This projecct was made durning my winnter vacation. After a long term study of DataStruct, I learned a lot and desporately want to make progress. Using the newest Tech I've learn to do something bold is the coolest things came to my mind. I am a huge fan of 2048game, I really like this game so I chose it as my TEST. Like Gabriele Cirulli, who created 2048, I do this project not only for entertainment but for improving myself, testing whether I have the ability to develop an independent game as well. So I spend about 2 or 3 days total to make this game. Providentially, I didn't spend much time and proof my strength in about 500 lines for the v.1.0(prototype version). That feels fascinated!
+
+这个项目是我在冬天度假时做的。通过对DataStruct的长期学习，我学到了很多，非常想要进步。使用我学到的最新技术去做一些大胆的事情是我想到的最酷的事情。我是2048游戏的超级粉丝，我真的很喜欢这个游戏，所以我选择了它作为我的测试。就像创造了2048的Gabriele Cirulli一样，我做这个项目不仅是为了娱乐，也是为了提高自己，测试自己是否有能力开发一款独立的游戏。所以我总共花了2到3天来制作这个游戏。幸运的是，我没有花太多的时间在v1.0(原型版本)的500行代码上证明我的能力。这感觉着迷!
 
 ___[查看中文详情](#2048游戏)___
 
